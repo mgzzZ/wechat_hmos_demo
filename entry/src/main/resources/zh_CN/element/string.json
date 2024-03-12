@@ -11,6 +11,10 @@
     {
       "name": "EntryAbility_label",
       "value": "label"
+    },
+    {
+      "name": "tabbar_chat",
+      "value": "消息"
     }
   ]
 }

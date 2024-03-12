@@ -1,5 +1,10 @@
 {
   "src": [
-    "pages/Index"
+    "pages/Index",
+    "pages/chat/chatPage",
+    "pages/find/findPage",
+    "pages/mine/minePage",
+    "pages/friends/friendsPage",
+    "pages/main/mainPage"
   ]
 }
